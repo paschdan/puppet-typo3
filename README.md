@@ -14,7 +14,7 @@ This module requires functions provided by the Example42 Puppi module (you need 
 
         class { 'typo3': }
 
-* Install a specific version of php package
+* Install a specific version of typo3
 
         class { 'typo3':
           version => '6.1.7',
