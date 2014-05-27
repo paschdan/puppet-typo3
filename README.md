@@ -34,4 +34,3 @@ This module requires functions provided by the Example42 Puppi module (you need 
         }
 
 
-[![Build Status](https://travis-ci.org/paschdan/puppet-typo3.png?branch=master)](https://travis-ci.org/paschdan/puppet-typo3)
